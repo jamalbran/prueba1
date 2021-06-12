@@ -1,3 +1,24 @@
+body {
+    background-color: #000000 !important;
+}
+
+h2 {
+    color: #ffffff;
+}
+
+hr {
+    color: #17a3b8;
+}
+
 .logo {
     max-height: 50px;
+}
+
+.iconos {
+    color: #ffffff;
+    font-size: 2em;
+}
+
+footer {
+    background-color: #17a3b8;
 }
