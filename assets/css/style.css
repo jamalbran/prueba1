@@ -1,5 +1,6 @@
 body {
     background-color: #000000 !important;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h2 {
@@ -7,11 +8,39 @@ h2 {
 }
 
 hr {
-    color: #17a3b8;
+    background-color: #17a3b8;
 }
 
 .logo {
     max-height: 50px;
+}
+
+#quienes-somos {
+    padding-top: 20px;
+    padding-bottom: 7%;
+}
+
+.qn-somos {
+    text-align: left;
+    border: #ffffff;
+}
+
+#destacados {
+    padding-bottom: 7%;
+}
+
+.destacados {
+    background-color: #17a3b8!important;
+    color: #ffffff!important;
+}
+
+.destacados img {
+    
+}
+
+i {
+    background-color: #17a3b8;
+    text-align: center;
 }
 
 .iconos {
